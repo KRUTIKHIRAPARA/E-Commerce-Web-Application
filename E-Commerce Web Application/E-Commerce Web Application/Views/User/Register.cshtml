@@ -1,0 +1,42 @@
+﻿@model E_Commerce_Web_Application.Models.User
+
+
+@* <form asp-action="Register" method="post"> *@
+@*     <input asp-for="UserName" placeholder="Username" /> *@
+@*     <input asp-for="Email" placeholder="Email" /> *@
+@*     <input asp-for="PasswordHash" placeholder="Password" type="password" /> *@
+@*     <button type="submit">Register</button> *@
+@* </form> *@
+
+@{
+    ViewData["Title"] = "Register";
+}
+
+<h2>Register</h2>
+
+<form asp-action="Register" method="post">
+    <div class="mb-3">
+        <label for="FullName" class="form-label">Full Name</label>
+        <input type="text" class="form-control" name="fullName" required />
+    </div>
+    <div class="mb-3">
+        <label for="Email" class="form-label">Email</label>
+        <input type="email" class="form-control" name="email" required />
+    </div>
+    <div class="mb-3">
+        <label for="Password" class="form-label">Password</label>
+        <input type="password" class="form-control" name="password" required />
+    </div>
+    <div class="mb-3">
+        <label for="Role" class="form-label">Select Role</label>
+        <select class="form-control" name="role" required>
+            <option value="">-- Select Role --</option>
+            <option value="Buyer">Buyer</option>
+            <option value="Seller">Seller</option>
+            <option value="Admin">Admin</option>
+        </select>
+    </div>
+    <button type="submit" class="btn btn-primary">Register</button>
+</form>
+
+

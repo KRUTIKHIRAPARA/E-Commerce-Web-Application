@@ -1,0 +1,91 @@
+﻿@model E_Commerce_Web_Application.Models.Product
+
+@{
+    ViewData["Title"] = "Product Details";
+}
+
+<h2>@Model.Name</h2>
+
+<div class="mb-4">
+    <strong>Price:</strong> $@Model.Price<br />
+    <strong>Category:</strong> @Model.Category<br />
+    <strong>Stock:</strong> @Model.StockQuantity<br />
+</div>
+
+@if (Model.Images != null && Model.Images.Any())
+{
+    <div class="row mb-4">
+        @foreach (var image in Model.Images)
+        {
+            <div class="col-md-3 mb-2">
+                <img src="@image.ImageUrl" alt="Product Image" class="img-fluid rounded border" />
+            </div>
+        }
+    </div>
+}
+
+@if (!string.IsNullOrWhiteSpace(Model.Description))
+{
+    <div class="mb-4">
+        <h5>Description</h5>
+        <p>@Model.Description</p>
+    </div>
+}
+
+@if (Model.Reviews != null && Model.Reviews.Any())
+{
+    <div class="mb-4">
+        <h5>Reviews</h5>
+        <ul class="list-group">
+            @foreach (var review in Model.Reviews)
+            {
+                <li class="list-group-item">
+                    <strong>@review.User?.UserName</strong> rated <strong>@review.Rating</strong>/5<br />
+                    @review.Comment
+                </li>
+            }
+        </ul>
+    </div>
+}
+else
+{
+    <div class="mb-4">
+        <h5>Reviews</h5>
+        <p class="text-muted">No reviews yet.</p>
+    </div>
+}
+
+@if (Context.Session.GetInt32("UserId") != null)
+{
+    <div class="mb-4 mt-4">
+        <h5>Add a Review</h5>
+        <form asp-controller="Review" asp-action="AddReview" method="post">
+            <input type="hidden" name="ProductId" value="@Model.ProductId" />
+
+            <div class="mb-3">
+                <label for="Rating" class="form-label">Rating (1-5)</label>
+                <select name="Rating" class="form-select" required>
+                    <option value="">Select</option>
+                    @for (int i = 1; i <= 5; i++)
+                    {
+                        <option value="@i">@i</option>
+                    }
+                </select>
+            </div>
+
+            <div class="mb-3">
+                <label for="Comment" class="form-label">Comment</label>
+                <textarea name="Comment" class="form-control" rows="3" required></textarea>
+            </div>
+
+            <button type="submit" class="btn btn-primary">Submit Review</button>
+        </form>
+    </div>
+}
+else
+{
+    <p class="text-muted">You must <a asp-controller="User" asp-action="Login">log in</a> to add a review.</p>
+}
+
+
+<a asp-action="Index" class="btn btn-secondary">Back to List</a>

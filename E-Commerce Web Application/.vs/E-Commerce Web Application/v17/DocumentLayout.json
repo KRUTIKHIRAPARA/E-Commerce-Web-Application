@@ -1,0 +1,453 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Github\\E-Commerce-Web-Application\\E-Commerce Web Application\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{952C6035-91F4-4A3A-A4AA-8149C1CFAB5F}|E-Commerce Web Application\\E-Commerce Web Application.csproj|g:\\github\\e-commerce-web-application\\e-commerce web application\\e-commerce web application\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{952C6035-91F4-4A3A-A4AA-8149C1CFAB5F}|E-Commerce Web Application\\E-Commerce Web Application.csproj|solutionrelative:e-commerce web application\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{952C6035-91F4-4A3A-A4AA-8149C1CFAB5F}|E-Commerce Web Application\\E-Commerce Web Application.csproj|g:\\github\\e-commerce-web-application\\e-commerce web application\\e-commerce web application\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{952C6035-91F4-4A3A-A4AA-8149C1CFAB5F}|E-Commerce Web Application\\E-Commerce Web Application.csproj|solutionrelative:e-commerce web application\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{952C6035-91F4-4A3A-A4AA-8149C1CFAB5F}|E-Commerce Web Application\\E-Commerce Web Application.csproj|g:\\github\\e-commerce-web-application\\e-commerce web application\\e-commerce web application\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{952C6035-91F4-4A3A-A4AA-8149C1CFAB5F}|E-Commerce Web Application\\E-Commerce Web Application.csproj|solutionrelative:e-commerce web application\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{952C6035-91F4-4A3A-A4AA-8149C1CFAB5F}|E-Commerce Web Application\\E-Commerce Web Application.csproj|g:\\github\\e-commerce-web-application\\e-commerce web application\\e-commerce web application\\views\\admin\\users.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{952C6035-91F4-4A3A-A4AA-8149C1CFAB5F}|E-Commerce Web Application\\E-Commerce Web Application.csproj|solutionrelative:e-commerce web application\\views\\admin\\users.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{952C6035-91F4-4A3A-A4AA-8149C1CFAB5F}|E-Commerce Web Application\\E-Commerce Web Application.csproj|g:\\github\\e-commerce-web-application\\e-commerce web application\\e-commerce web application\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{952C6035-91F4-4A3A-A4AA-8149C1CFAB5F}|E-Commerce Web Application\\E-Commerce Web Application.csproj|solutionrelative:e-commerce web application\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{952C6035-91F4-4A3A-A4AA-8149C1CFAB5F}|E-Commerce Web Application\\E-Commerce Web Application.csproj|g:\\github\\e-commerce-web-application\\e-commerce web application\\e-commerce web application\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{952C6035-91F4-4A3A-A4AA-8149C1CFAB5F}|E-Commerce Web Application\\E-Commerce Web Application.csproj|solutionrelative:e-commerce web application\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{952C6035-91F4-4A3A-A4AA-8149C1CFAB5F}|E-Commerce Web Application\\E-Commerce Web Application.csproj|g:\\github\\e-commerce-web-application\\e-commerce web application\\e-commerce web application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{952C6035-91F4-4A3A-A4AA-8149C1CFAB5F}|E-Commerce Web Application\\E-Commerce Web Application.csproj|solutionrelative:e-commerce web application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{952C6035-91F4-4A3A-A4AA-8149C1CFAB5F}|E-Commerce Web Application\\E-Commerce Web Application.csproj|g:\\github\\e-commerce-web-application\\e-commerce web application\\e-commerce web application\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{952C6035-91F4-4A3A-A4AA-8149C1CFAB5F}|E-Commerce Web Application\\E-Commerce Web Application.csproj|solutionrelative:e-commerce web application\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{952C6035-91F4-4A3A-A4AA-8149C1CFAB5F}|E-Commerce Web Application\\E-Commerce Web Application.csproj|g:\\github\\e-commerce-web-application\\e-commerce web application\\e-commerce web application\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{952C6035-91F4-4A3A-A4AA-8149C1CFAB5F}|E-Commerce Web Application\\E-Commerce Web Application.csproj|solutionrelative:e-commerce web application\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{952C6035-91F4-4A3A-A4AA-8149C1CFAB5F}|E-Commerce Web Application\\E-Commerce Web Application.csproj|g:\\github\\e-commerce-web-application\\e-commerce web application\\e-commerce web application\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{952C6035-91F4-4A3A-A4AA-8149C1CFAB5F}|E-Commerce Web Application\\E-Commerce Web Application.csproj|solutionrelative:e-commerce web application\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{952C6035-91F4-4A3A-A4AA-8149C1CFAB5F}|E-Commerce Web Application\\E-Commerce Web Application.csproj|g:\\github\\e-commerce-web-application\\e-commerce web application\\e-commerce web application\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{952C6035-91F4-4A3A-A4AA-8149C1CFAB5F}|E-Commerce Web Application\\E-Commerce Web Application.csproj|solutionrelative:e-commerce web application\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{952C6035-91F4-4A3A-A4AA-8149C1CFAB5F}|E-Commerce Web Application\\E-Commerce Web Application.csproj|g:\\github\\e-commerce-web-application\\e-commerce web application\\e-commerce web application\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{952C6035-91F4-4A3A-A4AA-8149C1CFAB5F}|E-Commerce Web Application\\E-Commerce Web Application.csproj|solutionrelative:e-commerce web application\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{952C6035-91F4-4A3A-A4AA-8149C1CFAB5F}|E-Commerce Web Application\\E-Commerce Web Application.csproj|g:\\github\\e-commerce-web-application\\e-commerce web application\\e-commerce web application\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{952C6035-91F4-4A3A-A4AA-8149C1CFAB5F}|E-Commerce Web Application\\E-Commerce Web Application.csproj|solutionrelative:e-commerce web application\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{952C6035-91F4-4A3A-A4AA-8149C1CFAB5F}|E-Commerce Web Application\\E-Commerce Web Application.csproj|g:\\github\\e-commerce-web-application\\e-commerce web application\\e-commerce web application\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{952C6035-91F4-4A3A-A4AA-8149C1CFAB5F}|E-Commerce Web Application\\E-Commerce Web Application.csproj|solutionrelative:e-commerce web application\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{952C6035-91F4-4A3A-A4AA-8149C1CFAB5F}|E-Commerce Web Application\\E-Commerce Web Application.csproj|g:\\github\\e-commerce-web-application\\e-commerce web application\\e-commerce web application\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{952C6035-91F4-4A3A-A4AA-8149C1CFAB5F}|E-Commerce Web Application\\E-Commerce Web Application.csproj|solutionrelative:e-commerce web application\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{952C6035-91F4-4A3A-A4AA-8149C1CFAB5F}|E-Commerce Web Application\\E-Commerce Web Application.csproj|g:\\github\\e-commerce-web-application\\e-commerce web application\\e-commerce web application\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{952C6035-91F4-4A3A-A4AA-8149C1CFAB5F}|E-Commerce Web Application\\E-Commerce Web Application.csproj|solutionrelative:e-commerce web application\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{952C6035-91F4-4A3A-A4AA-8149C1CFAB5F}|E-Commerce Web Application\\E-Commerce Web Application.csproj|g:\\github\\e-commerce-web-application\\e-commerce web application\\e-commerce web application\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{952C6035-91F4-4A3A-A4AA-8149C1CFAB5F}|E-Commerce Web Application\\E-Commerce Web Application.csproj|solutionrelative:e-commerce web application\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{952C6035-91F4-4A3A-A4AA-8149C1CFAB5F}|E-Commerce Web Application\\E-Commerce Web Application.csproj|g:\\github\\e-commerce-web-application\\e-commerce web application\\e-commerce web application\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{952C6035-91F4-4A3A-A4AA-8149C1CFAB5F}|E-Commerce Web Application\\E-Commerce Web Application.csproj|solutionrelative:e-commerce web application\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{952C6035-91F4-4A3A-A4AA-8149C1CFAB5F}|E-Commerce Web Application\\E-Commerce Web Application.csproj|g:\\github\\e-commerce-web-application\\e-commerce web application\\e-commerce web application\\views\\review\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{952C6035-91F4-4A3A-A4AA-8149C1CFAB5F}|E-Commerce Web Application\\E-Commerce Web Application.csproj|solutionrelative:e-commerce web application\\views\\review\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{952C6035-91F4-4A3A-A4AA-8149C1CFAB5F}|E-Commerce Web Application\\E-Commerce Web Application.csproj|g:\\github\\e-commerce-web-application\\e-commerce web application\\e-commerce web application\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{952C6035-91F4-4A3A-A4AA-8149C1CFAB5F}|E-Commerce Web Application\\E-Commerce Web Application.csproj|solutionrelative:e-commerce web application\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{952C6035-91F4-4A3A-A4AA-8149C1CFAB5F}|E-Commerce Web Application\\E-Commerce Web Application.csproj|g:\\github\\e-commerce-web-application\\e-commerce web application\\e-commerce web application\\migrations\\20250522092852_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{952C6035-91F4-4A3A-A4AA-8149C1CFAB5F}|E-Commerce Web Application\\E-Commerce Web Application.csproj|solutionrelative:e-commerce web application\\migrations\\20250522092852_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{952C6035-91F4-4A3A-A4AA-8149C1CFAB5F}|E-Commerce Web Application\\E-Commerce Web Application.csproj|g:\\github\\e-commerce-web-application\\e-commerce web application\\e-commerce web application\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{952C6035-91F4-4A3A-A4AA-8149C1CFAB5F}|E-Commerce Web Application\\E-Commerce Web Application.csproj|solutionrelative:e-commerce web application\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{952C6035-91F4-4A3A-A4AA-8149C1CFAB5F}|E-Commerce Web Application\\E-Commerce Web Application.csproj|g:\\github\\e-commerce-web-application\\e-commerce web application\\e-commerce web application\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{952C6035-91F4-4A3A-A4AA-8149C1CFAB5F}|E-Commerce Web Application\\E-Commerce Web Application.csproj|solutionrelative:e-commerce web application\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{952C6035-91F4-4A3A-A4AA-8149C1CFAB5F}|E-Commerce Web Application\\E-Commerce Web Application.csproj|g:\\github\\e-commerce-web-application\\e-commerce web application\\e-commerce web application\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{952C6035-91F4-4A3A-A4AA-8149C1CFAB5F}|E-Commerce Web Application\\E-Commerce Web Application.csproj|solutionrelative:e-commerce web application\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{952C6035-91F4-4A3A-A4AA-8149C1CFAB5F}|E-Commerce Web Application\\E-Commerce Web Application.csproj|g:\\github\\e-commerce-web-application\\e-commerce web application\\e-commerce web application\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{952C6035-91F4-4A3A-A4AA-8149C1CFAB5F}|E-Commerce Web Application\\E-Commerce Web Application.csproj|solutionrelative:e-commerce web application\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{952C6035-91F4-4A3A-A4AA-8149C1CFAB5F}|E-Commerce Web Application\\E-Commerce Web Application.csproj|g:\\github\\e-commerce-web-application\\e-commerce web application\\e-commerce web application\\e-commerce web application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{952C6035-91F4-4A3A-A4AA-8149C1CFAB5F}|E-Commerce Web Application\\E-Commerce Web Application.csproj|solutionrelative:e-commerce web application\\e-commerce web application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{952C6035-91F4-4A3A-A4AA-8149C1CFAB5F}|E-Commerce Web Application\\E-Commerce Web Application.csproj|g:\\github\\e-commerce-web-application\\e-commerce web application\\e-commerce web application\\migrations\\20250522093456_addressfiledremove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{952C6035-91F4-4A3A-A4AA-8149C1CFAB5F}|E-Commerce Web Application\\E-Commerce Web Application.csproj|solutionrelative:e-commerce web application\\migrations\\20250522093456_addressfiledremove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ReviewController.cs",
+              "DocumentMoniker": "G:\\Github\\E-Commerce-Web-Application\\E-Commerce Web Application\\E-Commerce Web Application\\Controllers\\ReviewController.cs",
+              "RelativeDocumentMoniker": "E-Commerce Web Application\\Controllers\\ReviewController.cs",
+              "ToolTip": "G:\\Github\\E-Commerce-Web-Application\\E-Commerce Web Application\\E-Commerce Web Application\\Controllers\\ReviewController.cs",
+              "RelativeToolTip": "E-Commerce Web Application\\Controllers\\ReviewController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwCsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T08:10:37.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "G:\\Github\\E-Commerce-Web-Application\\E-Commerce Web Application\\E-Commerce Web Application\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "E-Commerce Web Application\\Controllers\\UserController.cs",
+              "ToolTip": "G:\\Github\\E-Commerce-Web-Application\\E-Commerce Web Application\\E-Commerce Web Application\\Controllers\\UserController.cs",
+              "RelativeToolTip": "E-Commerce Web Application\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwG8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T07:56:50.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Users.cshtml",
+              "DocumentMoniker": "G:\\Github\\E-Commerce-Web-Application\\E-Commerce Web Application\\E-Commerce Web Application\\Views\\Admin\\Users.cshtml",
+              "RelativeDocumentMoniker": "E-Commerce Web Application\\Views\\Admin\\Users.cshtml",
+              "ToolTip": "G:\\Github\\E-Commerce-Web-Application\\E-Commerce Web Application\\E-Commerce Web Application\\Views\\Admin\\Users.cshtml",
+              "RelativeToolTip": "E-Commerce Web Application\\Views\\Admin\\Users.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T10:56:05.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "G:\\Github\\E-Commerce-Web-Application\\E-Commerce Web Application\\E-Commerce Web Application\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "E-Commerce Web Application\\Views\\Product\\Create.cshtml",
+              "ToolTip": "G:\\Github\\E-Commerce-Web-Application\\E-Commerce Web Application\\E-Commerce Web Application\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "E-Commerce Web Application\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T09:43:57.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "G:\\Github\\E-Commerce-Web-Application\\E-Commerce Web Application\\E-Commerce Web Application\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "E-Commerce Web Application\\Views\\Product\\Details.cshtml",
+              "ToolTip": "G:\\Github\\E-Commerce-Web-Application\\E-Commerce Web Application\\E-Commerce Web Application\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "E-Commerce Web Application\\Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T11:31:26.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "G:\\Github\\E-Commerce-Web-Application\\E-Commerce Web Application\\E-Commerce Web Application\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "E-Commerce Web Application\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "G:\\Github\\E-Commerce-Web-Application\\E-Commerce Web Application\\E-Commerce Web Application\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "E-Commerce Web Application\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAFQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T09:44:14.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "G:\\Github\\E-Commerce-Web-Application\\E-Commerce Web Application\\E-Commerce Web Application\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "E-Commerce Web Application\\Views\\Product\\Index.cshtml",
+              "ToolTip": "G:\\Github\\E-Commerce-Web-Application\\E-Commerce Web Application\\E-Commerce Web Application\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "E-Commerce Web Application\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T08:09:10.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "G:\\Github\\E-Commerce-Web-Application\\E-Commerce Web Application\\E-Commerce Web Application\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "E-Commerce Web Application\\Controllers\\ProductController.cs",
+              "ToolTip": "G:\\Github\\E-Commerce-Web-Application\\E-Commerce Web Application\\E-Commerce Web Application\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "E-Commerce Web Application\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T09:09:18.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "G:\\Github\\E-Commerce-Web-Application\\E-Commerce Web Application\\E-Commerce Web Application\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "E-Commerce Web Application\\appsettings.Development.json",
+              "ToolTip": "G:\\Github\\E-Commerce-Web-Application\\E-Commerce Web Application\\E-Commerce Web Application\\appsettings.Development.json",
+              "RelativeToolTip": "E-Commerce Web Application\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-22T08:14:20.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Github\\E-Commerce-Web-Application\\E-Commerce Web Application\\E-Commerce Web Application\\Program.cs",
+              "RelativeDocumentMoniker": "E-Commerce Web Application\\Program.cs",
+              "ToolTip": "G:\\Github\\E-Commerce-Web-Application\\E-Commerce Web Application\\E-Commerce Web Application\\Program.cs",
+              "RelativeToolTip": "E-Commerce Web Application\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T08:11:14.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "G:\\Github\\E-Commerce-Web-Application\\E-Commerce Web Application\\E-Commerce Web Application\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "E-Commerce Web Application\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "G:\\Github\\E-Commerce-Web-Application\\E-Commerce Web Application\\E-Commerce Web Application\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "E-Commerce Web Application\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T09:04:11.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "G:\\Github\\E-Commerce-Web-Application\\E-Commerce Web Application\\E-Commerce Web Application\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "E-Commerce Web Application\\Controllers\\AdminController.cs",
+              "ToolTip": "G:\\Github\\E-Commerce-Web-Application\\E-Commerce Web Application\\E-Commerce Web Application\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "E-Commerce Web Application\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T10:54:32.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Product.cs",
+              "DocumentMoniker": "G:\\Github\\E-Commerce-Web-Application\\E-Commerce Web Application\\E-Commerce Web Application\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "E-Commerce Web Application\\Models\\Product.cs",
+              "ToolTip": "G:\\Github\\E-Commerce-Web-Application\\E-Commerce Web Application\\E-Commerce Web Application\\Models\\Product.cs",
+              "RelativeToolTip": "E-Commerce Web Application\\Models\\Product.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAmwCAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T07:36:45.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "G:\\Github\\E-Commerce-Web-Application\\E-Commerce Web Application\\E-Commerce Web Application\\Views\\User\\Register.cshtml",
+              "RelativeDocumentMoniker": "E-Commerce Web Application\\Views\\User\\Register.cshtml",
+              "ToolTip": "G:\\Github\\E-Commerce-Web-Application\\E-Commerce Web Application\\E-Commerce Web Application\\Views\\User\\Register.cshtml",
+              "RelativeToolTip": "E-Commerce Web Application\\Views\\User\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T08:07:34.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "G:\\Github\\E-Commerce-Web-Application\\E-Commerce Web Application\\E-Commerce Web Application\\Views\\User\\Login.cshtml",
+              "RelativeDocumentMoniker": "E-Commerce Web Application\\Views\\User\\Login.cshtml",
+              "ToolTip": "G:\\Github\\E-Commerce-Web-Application\\E-Commerce Web Application\\E-Commerce Web Application\\Views\\User\\Login.cshtml",
+              "RelativeToolTip": "E-Commerce Web Application\\Views\\User\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T08:08:24.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "G:\\Github\\E-Commerce-Web-Application\\E-Commerce Web Application\\E-Commerce Web Application\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "E-Commerce Web Application\\Views\\_ViewStart.cshtml",
+              "ToolTip": "G:\\Github\\E-Commerce-Web-Application\\E-Commerce Web Application\\E-Commerce Web Application\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "E-Commerce Web Application\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T09:04:07.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "G:\\Github\\E-Commerce-Web-Application\\E-Commerce Web Application\\E-Commerce Web Application\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "E-Commerce Web Application\\Views\\_ViewImports.cshtml",
+              "ToolTip": "G:\\Github\\E-Commerce-Web-Application\\E-Commerce Web Application\\E-Commerce Web Application\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "E-Commerce Web Application\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T09:04:05.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "G:\\Github\\E-Commerce-Web-Application\\E-Commerce Web Application\\E-Commerce Web Application\\Views\\Review\\Index.cshtml",
+              "RelativeDocumentMoniker": "E-Commerce Web Application\\Views\\Review\\Index.cshtml",
+              "ToolTip": "G:\\Github\\E-Commerce-Web-Application\\E-Commerce Web Application\\E-Commerce Web Application\\Views\\Review\\Index.cshtml",
+              "RelativeToolTip": "E-Commerce Web Application\\Views\\Review\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T10:24:36.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductImage.cs",
+              "DocumentMoniker": "G:\\Github\\E-Commerce-Web-Application\\E-Commerce Web Application\\E-Commerce Web Application\\Models\\ProductImage.cs",
+              "RelativeDocumentMoniker": "E-Commerce Web Application\\Models\\ProductImage.cs",
+              "ToolTip": "G:\\Github\\E-Commerce-Web-Application\\E-Commerce Web Application\\E-Commerce Web Application\\Models\\ProductImage.cs",
+              "RelativeToolTip": "E-Commerce Web Application\\Models\\ProductImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T07:37:09.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20250522093456_AddressFiledRemove.cs",
+              "DocumentMoniker": "G:\\Github\\E-Commerce-Web-Application\\E-Commerce Web Application\\E-Commerce Web Application\\Migrations\\20250522093456_AddressFiledRemove.cs",
+              "RelativeDocumentMoniker": "E-Commerce Web Application\\Migrations\\20250522093456_AddressFiledRemove.cs",
+              "ToolTip": "G:\\Github\\E-Commerce-Web-Application\\E-Commerce Web Application\\E-Commerce Web Application\\Migrations\\20250522093456_AddressFiledRemove.cs",
+              "RelativeToolTip": "E-Commerce Web Application\\Migrations\\20250522093456_AddressFiledRemove.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T09:34:56.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "User.cs",
+              "DocumentMoniker": "G:\\Github\\E-Commerce-Web-Application\\E-Commerce Web Application\\E-Commerce Web Application\\Models\\User.cs",
+              "RelativeDocumentMoniker": "E-Commerce Web Application\\Models\\User.cs",
+              "ToolTip": "G:\\Github\\E-Commerce-Web-Application\\E-Commerce Web Application\\E-Commerce Web Application\\Models\\User.cs",
+              "RelativeToolTip": "E-Commerce Web Application\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T07:35:27.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20250522092852_InitialCreate.cs",
+              "DocumentMoniker": "G:\\Github\\E-Commerce-Web-Application\\E-Commerce Web Application\\E-Commerce Web Application\\Migrations\\20250522092852_InitialCreate.cs",
+              "RelativeDocumentMoniker": "E-Commerce Web Application\\Migrations\\20250522092852_InitialCreate.cs",
+              "ToolTip": "G:\\Github\\E-Commerce-Web-Application\\E-Commerce Web Application\\E-Commerce Web Application\\Migrations\\20250522092852_InitialCreate.cs",
+              "RelativeToolTip": "E-Commerce Web Application\\Migrations\\20250522092852_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T09:28:52.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "site.css",
+              "DocumentMoniker": "G:\\Github\\E-Commerce-Web-Application\\E-Commerce Web Application\\E-Commerce Web Application\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "E-Commerce Web Application\\wwwroot\\css\\site.css",
+              "ToolTip": "G:\\Github\\E-Commerce-Web-Application\\E-Commerce Web Application\\E-Commerce Web Application\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "E-Commerce Web Application\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-22T09:06:29.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "G:\\Github\\E-Commerce-Web-Application\\E-Commerce Web Application\\E-Commerce Web Application\\appsettings.json",
+              "RelativeDocumentMoniker": "E-Commerce Web Application\\appsettings.json",
+              "ToolTip": "G:\\Github\\E-Commerce-Web-Application\\E-Commerce Web Application\\E-Commerce Web Application\\appsettings.json",
+              "RelativeToolTip": "E-Commerce Web Application\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-22T08:14:13.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "E-Commerce Web Application.csproj",
+              "DocumentMoniker": "G:\\Github\\E-Commerce-Web-Application\\E-Commerce Web Application\\E-Commerce Web Application\\E-Commerce Web Application.csproj",
+              "RelativeDocumentMoniker": "E-Commerce Web Application\\E-Commerce Web Application.csproj",
+              "ToolTip": "G:\\Github\\E-Commerce-Web-Application\\E-Commerce Web Application\\E-Commerce Web Application\\E-Commerce Web Application.csproj",
+              "RelativeToolTip": "E-Commerce Web Application\\E-Commerce Web Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-22T07:41:02.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "G:\\Github\\E-Commerce-Web-Application\\E-Commerce Web Application\\E-Commerce Web Application\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "E-Commerce Web Application\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "G:\\Github\\E-Commerce-Web-Application\\E-Commerce Web Application\\E-Commerce Web Application\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "E-Commerce Web Application\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T07:38:23.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Review.cs",
+              "DocumentMoniker": "G:\\Github\\E-Commerce-Web-Application\\E-Commerce Web Application\\E-Commerce Web Application\\Models\\Review.cs",
+              "RelativeDocumentMoniker": "E-Commerce Web Application\\Models\\Review.cs",
+              "ToolTip": "G:\\Github\\E-Commerce-Web-Application\\E-Commerce Web Application\\E-Commerce Web Application\\Models\\Review.cs",
+              "RelativeToolTip": "E-Commerce Web Application\\Models\\Review.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T07:37:42.446Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

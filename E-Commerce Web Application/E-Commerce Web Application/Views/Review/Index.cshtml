@@ -1,0 +1,38 @@
+﻿@{
+    var userId = Context.Session.GetInt32("UserId");
+}
+
+<a asp-controller="Product" asp-action="Index" class="btn btn-secondary mb-3">← Back to Products</a>
+
+
+@if (userId != null)
+{
+    <div class="mt-4">
+        <h5>Add a Review</h5>
+        <form asp-controller="Review" asp-action="AddReview" method="post">
+            <input type="hidden" name="ProductId" value="@Model.ProductId" />
+
+            <div class="mb-3">
+                <label for="Rating" class="form-label">Rating (1–5)</label>
+                <select name="Rating" class="form-select" required>
+                    <option value="">-- Select Rating --</option>
+                    @for (int i = 1; i <= 5; i++)
+                    {
+                        <option value="@i">@i</option>
+                    }
+                </select>
+            </div>
+
+            <div class="mb-3">
+                <label for="Comment" class="form-label">Comment</label>
+                <textarea name="Comment" class="form-control" rows="3" required></textarea>
+            </div>
+
+            <button type="submit" class="btn btn-primary">Submit Review</button>
+        </form>
+    </div>
+}
+else
+{
+    <p class="text-muted">Please <a asp-controller="Account" asp-action="Login">login</a> to write a review.</p>
+}
